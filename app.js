@@ -7,4 +7,9 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
+// Routes
+const productRouter = require('./routes/productRoutes');
+
+app.use('/api/v1/test', productRouter);
+
 module.exports = app;

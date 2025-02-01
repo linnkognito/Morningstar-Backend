@@ -1,11 +1,10 @@
 const express = require('express');
+const producyController = require('../controllers/productController');
 
 const router = express.Router();
-const Product = require('../models/Product');
 
-router.get("/products", async (req, res) => {
-  try {
-    
-    
-  }
-})
+router.get('/', producyController.getAllProducts);
+router.get('/:id', producyController.getProductById);
+router.get('/category/:categoryName', producyController.getProductsByCategory);
+
+module.exports = router;
