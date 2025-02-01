@@ -1,6 +1,8 @@
+// server.js
+
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
-dotenv.config({ path: './config.env' });
+dotenv.config({ path: './.env' });
 
 // Connect to MongoDB
 mongoose

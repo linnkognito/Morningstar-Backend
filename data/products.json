@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Ribbed bikini (set)",
+    "price": 35,
+    "category": "womens",
+    "type": "swimwear",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": ["bg-blue-200", "bg-pearl", "bg-orange-500", "bg-offblack"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374270/HER_bikini_apdjt3.jpg"
+  },
+  {
+    "name": "Oversized buttonup",
+    "price": 35,
+    "category": "womens",
+    "type": "tops",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": ["bg-blue-700", "bg-blue-400"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_buttonup_2_odfecy.jpg"
+  },
+  {
+    "name": "Cropped straight fit jeans",
+    "price": 65,
+    "category": "womens",
+    "type": "pants",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": ["bg-cyan-600", "bg-teal-600", "bg-stone-600"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374271/HER_denim_gphqfz.jpg"
+  },
+  {
+    "name": "Cut-out dress",
+    "price": 24,
+    "category": "womens",
+    "type": "dresses",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": ["bg-purple-400", "bg-lime-300", "bg-offblack"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374277/HER_dress_sxwh5v.jpg"
+  },
+  {
+    "name": "Escape hoodie",
+    "price": 45,
+    "category": "womens",
+    "type": "tops",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": ["bg-orange-500"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374272/HER_escape_uwutqq.jpg"
+  },
+  {
+    "name": "Fuzzy leopard printed cardigan",
+    "price": 32,
+    "category": "womens",
+    "type": "tops",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": ["bg-orange-200"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374274/HER_leopard_vhikw2.jpg"
+  },
+  {
+    "name": "Long sleeve t-shirt",
+    "price": 19,
+    "category": "womens",
+    "type": "tops",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": ["bg-pearl", "bg-offblack"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374276/HER_longsleeve_huhcyd.jpg"
+  },
+  {
+    "name": "Literal set",
+    "price": 105,
+    "category": "womens",
+    "type": "sets",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": ["bg-pearl"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374276/HER_pattern_pmyhpm.jpg"
+  },
+  {
+    "name": "Fuchsia forward set",
+    "price": 85,
+    "category": "womens",
+    "type": "sets",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": ["bg-rose-500"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_pink_e4p7jl.jpg"
+  },
+  {
+    "name": "Jersey biker shorts",
+    "price": 15,
+    "category": "womens",
+    "type": "shorts",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": [
+      "bg-pearl",
+      "bg-pink-400",
+      "bg-lime-300",
+      "bg-purple-400",
+      "bg-slate-300",
+      "bg-offblack"
+    ],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374280/HER_summer_jq1lst.jpg"
+  },
+  {
+    "name": "Cropped tank top",
+    "price": 12,
+    "category": "womens",
+    "type": "tops",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": [
+      "bg-pearl",
+      "bg-pink-400",
+      "bg-purple-400",
+      "bg-lime-300",
+      "bg-slate-300",
+      "bg-offblack"
+    ],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_tanktop_ale1ix.jpg"
+  },
+  {
+    "name": "Natural earrings",
+    "price": 25,
+    "category": "womens",
+    "type": "acc",
+    "totalQuantity": 30,
+    "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
+    "colors": ["bg-pearl"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374273/HER_earrings_ja3ctu.jpg"
+  },
+
+  {
+    "name": "Jersey loosefit sweatshirt",
+    "price": 33,
+    "category": "mens",
+    "type": "shirts",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": ["bg-pearl", "bg-stone-400", "bg-stone-800", "bg-offblack"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374282/HIM_sweatshirt_wjpxlg.jpg"
+  },
+  {
+    "name": "Straight fit linnen pants",
+    "price": 40,
+    "category": "mens",
+    "type": "pants",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": ["bg-stone-100"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374285/HIM_pants_linnen_waizak.jpg"
+  },
+  {
+    "name": "Chain necklace",
+    "price": 40,
+    "category": "mens",
+    "type": "acc",
+    "totalQuantity": 30,
+    "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
+    "colors": ["bg-slate-400"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374282/HIM_chain_necklace_q1dwal.jpg"
+  },
+  {
+    "name": "Bucket hat",
+    "price": 19,
+    "category": "mens",
+    "type": "acc",
+    "totalQuantity": 30,
+    "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
+    "colors": ["bg-slate-200"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HIM_buckethat_zlkjv8.jpg"
+  },
+
+  {
+    "name": "Boxy cotton t-shirt",
+    "price": 40,
+    "category": "unisex",
+    "type": "tops",
+    "totalQuantity": 30,
+    "sizes": [
+      { "size": "XS", "quantity": 5 },
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 5 },
+      { "size": "L", "quantity": 5 },
+      { "size": "XL", "quantity": 5 },
+      { "size": "XXL", "quantity": 5 }
+    ],
+    "colors": ["bg-pearl", "bg-lime-300", "bg-cyan-200", "bg-rose-200"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374284/UNI_monochrome_t4wteo.jpg"
+  },
+  {
+    "name": "Cloud bag",
+    "price": 24,
+    "category": "unisex",
+    "type": "acc",
+    "totalQuantity": 30,
+    "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
+    "colors": ["bg-blue-400"],
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374273/ACC_bag_cg9qio.jpg"
+  }
+]

@@ -57,3 +57,23 @@ exports.getProductsByCategory = async (req, res) => {
     });
   }
 };
+
+// Get all products of type
+exports.getProductsByType = async (req, res) => {
+  try {
+    const products = await Product.find({
+      category: req.params.categoryName,
+      type: req.params.productType,
+    });
+
+    res.status(200).json({
+      status: 'success',
+      data: products,
+    });
+  } catch (err) {
+    res.status(500).json({
+      status: 'error',
+      message: err.message,
+    });
+  }
+};
