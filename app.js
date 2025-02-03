@@ -7,7 +7,7 @@ const app = express();
 
 // Middleware
 app.use(express.json());
-app.use(cors());
+app.use(cors({ origin: 'https://shop-morningstar.netlify.app' }));
 
 // Routes
 const productRouter = require('./routes/productRoutes');
