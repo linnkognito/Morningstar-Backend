@@ -14,7 +14,8 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-blue-200", "bg-pearl", "bg-orange-500", "bg-offblack"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374270/HER_bikini_apdjt3.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374270/HER_bikini_apdjt3.jpg",
+    "cldPublicId": "HER_bikini_apdjt3"
   },
   {
     "name": "Oversized buttonup",
@@ -31,7 +32,8 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-blue-700", "bg-blue-400"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_buttonup_2_odfecy.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_buttonup_2_odfecy.jpg",
+    "cldPublicId": "HER_buttonup_2_odfecy"
   },
   {
     "name": "Cropped straight fit jeans",
@@ -48,7 +50,8 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-cyan-600", "bg-teal-600", "bg-stone-600"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374271/HER_denim_gphqfz.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374271/HER_denim_gphqfz.jpg",
+    "cldPublicId": "HER_denim_gphqfz"
   },
   {
     "name": "Cut-out dress",
@@ -65,7 +68,8 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-purple-400", "bg-lime-300", "bg-offblack"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374277/HER_dress_sxwh5v.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374277/HER_dress_sxwh5v.jpg",
+    "cldPublicId": "HER_dress_sxwh5v"
   },
   {
     "name": "Escape hoodie",
@@ -82,7 +86,8 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-orange-500"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374272/HER_escape_uwutqq.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374272/HER_escape_uwutqq.jpg",
+    "cldPublicId": "HER_escape_uwutqq"
   },
   {
     "name": "Fuzzy leopard printed cardigan",
@@ -99,7 +104,8 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-orange-200"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374274/HER_leopard_vhikw2.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374274/HER_leopard_vhikw2.jpg",
+    "cldPublicId": "HER_leopard_vhikw2"
   },
   {
     "name": "Long sleeve t-shirt",
@@ -116,7 +122,8 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-pearl", "bg-offblack"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374276/HER_longsleeve_huhcyd.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374276/HER_longsleeve_huhcyd.jpg",
+    "cldPublicId": "HER_longsleeve_huhcyd"
   },
   {
     "name": "Literal set",
@@ -133,7 +140,8 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-pearl"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374276/HER_pattern_pmyhpm.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374276/HER_pattern_pmyhpm.jpg",
+    "cldPublicId": "HER_pattern_pmyhpm"
   },
   {
     "name": "Fuchsia forward set",
@@ -150,7 +158,8 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-rose-500"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_pink_e4p7jl.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_pink_e4p7jl.jpg",
+    "cldPublicId": "HER_pink_e4p7jl"
   },
   {
     "name": "Jersey biker shorts",
@@ -174,7 +183,8 @@
       "bg-slate-300",
       "bg-offblack"
     ],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374280/HER_summer_jq1lst.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374280/HER_summer_jq1lst.jpg",
+    "cldPublicId": "HER_summer_jq1lst"
   },
   {
     "name": "Cropped tank top",
@@ -198,7 +208,8 @@
       "bg-slate-300",
       "bg-offblack"
     ],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_tanktop_ale1ix.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_tanktop_ale1ix.jpg",
+    "cldPublicId": "HER_tanktop_ale1ix"
   },
   {
     "name": "Natural earrings",
@@ -208,7 +219,8 @@
     "totalQuantity": 30,
     "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
     "colors": ["bg-pearl"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374273/HER_earrings_ja3ctu.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374273/HER_earrings_ja3ctu.jpg",
+    "cldPublicId": "HER_earrings_ja3ctu"
   },
 
   {
@@ -226,7 +238,8 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-pearl", "bg-stone-400", "bg-stone-800", "bg-offblack"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374282/HIM_sweatshirt_wjpxlg.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374282/HIM_sweatshirt_wjpxlg.jpg",
+    "cldPublicId": "HIM_sweatshirt_wjpxlg"
   },
   {
     "name": "Straight fit linnen pants",
@@ -243,7 +256,8 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-stone-100"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374285/HIM_pants_linnen_waizak.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374285/HIM_pants_linnen_waizak.jpg",
+    "cldPublicId": "HIM_pants_linnen_waizak"
   },
   {
     "name": "Chain necklace",
@@ -253,7 +267,8 @@
     "totalQuantity": 30,
     "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
     "colors": ["bg-slate-400"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374282/HIM_chain_necklace_q1dwal.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374282/HIM_chain_necklace_q1dwal.jpg",
+    "cldPublicId": "HIM_chain_necklace_q1dwal"
   },
   {
     "name": "Bucket hat",
@@ -263,7 +278,8 @@
     "totalQuantity": 30,
     "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
     "colors": ["bg-slate-200"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HIM_buckethat_zlkjv8.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HIM_buckethat_zlkjv8.jpg",
+    "cldPublicId": "HIM_buckethat_zlkjv8"
   },
 
   {
@@ -281,7 +297,8 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-pearl", "bg-lime-300", "bg-cyan-200", "bg-rose-200"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374284/UNI_monochrome_t4wteo.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374284/UNI_monochrome_t4wteo.jpg",
+    "cldPublicId": "UNI_monochrome_t4wteo"
   },
   {
     "name": "Cloud bag",
@@ -291,6 +308,7 @@
     "totalQuantity": 30,
     "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
     "colors": ["bg-blue-400"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374273/ACC_bag_cg9qio.jpg"
+    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374273/ACC_bag_cg9qio.jpg",
+    "cldPublicId": "ACC_bag_cg9qio"
   }
 ]
