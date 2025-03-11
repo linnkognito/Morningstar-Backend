@@ -15,7 +15,13 @@
     ],
     "colors": ["bg-blue-200", "bg-pearl", "bg-orange-500", "bg-offblack"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374270/HER_bikini_apdjt3.jpg",
-    "cldPublicId": "HER_bikini_apdjt3"
+    "cldPublicId": "HER_bikini_apdjt3",
+    "productDetails": [
+      "Quick-drying",
+      "Lining: 95% Polyester, 5% Elastane",
+      "Main: 97% Polyester, 3% Elastane"
+    ],
+    "careInstructions": ["Hand wash only"]
   },
   {
     "name": "Oversized buttonup",
@@ -33,7 +39,11 @@
     ],
     "colors": ["bg-blue-700", "bg-blue-400"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_buttonup_2_odfecy.jpg",
-    "cldPublicId": "HER_buttonup_2_odfecy"
+    "cldPublicId": "HER_buttonup_2_odfecy",
+    "productDetails": ["100% cotton", "Oversized fit"],
+    "careInstructions": [
+      "Machine wash according to instructions on care labels"
+    ]
   },
   {
     "name": "Cropped straight fit jeans",
@@ -51,7 +61,11 @@
     ],
     "colors": ["bg-cyan-600", "bg-teal-600", "bg-stone-600"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374271/HER_denim_gphqfz.jpg",
-    "cldPublicId": "HER_denim_gphqfz"
+    "cldPublicId": "HER_denim_gphqfz",
+    "productDetails": ["100% cotton", "Cropped fit"],
+    "careInstructions": [
+      "Machine wash according to instructions on care labels"
+    ]
   },
   {
     "name": "Cut-out dress",
@@ -69,7 +83,11 @@
     ],
     "colors": ["bg-purple-400", "bg-lime-300", "bg-offblack"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374277/HER_dress_sxwh5v.jpg",
-    "cldPublicId": "HER_dress_sxwh5v"
+    "cldPublicId": "HER_dress_sxwh5v",
+    "productDetails": ["100% cotton"],
+    "careInstructions": [
+      "Machine wash according to instructions on care labels"
+    ]
   },
   {
     "name": "Escape hoodie",
@@ -87,7 +105,11 @@
     ],
     "colors": ["bg-orange-500"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374272/HER_escape_uwutqq.jpg",
-    "cldPublicId": "HER_escape_uwutqq"
+    "cldPublicId": "HER_escape_uwutqq",
+    "productDetails": ["100% cotton"],
+    "careInstructions": [
+      "Machine wash according to instructions on care labels"
+    ]
   },
   {
     "name": "Fuzzy leopard printed cardigan",
@@ -105,7 +127,9 @@
     ],
     "colors": ["bg-orange-200"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374274/HER_leopard_vhikw2.jpg",
-    "cldPublicId": "HER_leopard_vhikw2"
+    "cldPublicId": "HER_leopard_vhikw2",
+    "productDetails": ["20% cotton", "80% polyester"],
+    "careInstructions": ["Machine wash cold", "Hang to dry"]
   },
   {
     "name": "Long sleeve t-shirt",
@@ -123,7 +147,9 @@
     ],
     "colors": ["bg-pearl", "bg-offblack"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374276/HER_longsleeve_huhcyd.jpg",
-    "cldPublicId": "HER_longsleeve_huhcyd"
+    "cldPublicId": "HER_longsleeve_huhcyd",
+    "productDetails": ["100% cotton"],
+    "careInstructions": ["Machine wash warm with similar colors"]
   },
   {
     "name": "Literal set",
@@ -141,7 +167,11 @@
     ],
     "colors": ["bg-pearl"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374276/HER_pattern_pmyhpm.jpg",
-    "cldPublicId": "HER_pattern_pmyhpm"
+    "cldPublicId": "HER_pattern_pmyhpm",
+    "productDetails": ["Twill"],
+    "careInstructions": [
+      "Machine wash according to instructions on care labels"
+    ]
   },
   {
     "name": "Fuchsia forward set",
@@ -159,7 +189,11 @@
     ],
     "colors": ["bg-rose-500"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_pink_e4p7jl.jpg",
-    "cldPublicId": "HER_pink_e4p7jl"
+    "cldPublicId": "HER_pink_e4p7jl",
+    "productDetails": ["100% polyester"],
+    "careInstructions": [
+      "Machine wash according to instructions on care labels"
+    ]
   },
   {
     "name": "Jersey biker shorts",
@@ -184,7 +218,11 @@
       "bg-offblack"
     ],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374280/HER_summer_jq1lst.jpg",
-    "cldPublicId": "HER_summer_jq1lst"
+    "cldPublicId": "HER_summer_jq1lst",
+    "productDetails": ["100% cotton"],
+    "careInstructions": [
+      "Machine wash according to instructions on care labels"
+    ]
   },
   {
     "name": "Cropped tank top",
@@ -209,7 +247,11 @@
       "bg-offblack"
     ],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_tanktop_ale1ix.jpg",
-    "cldPublicId": "HER_tanktop_ale1ix"
+    "cldPublicId": "HER_tanktop_ale1ix",
+    "productDetails": ["100% cotton"],
+    "careInstructions": [
+      "Machine wash according to instructions on care labels"
+    ]
   },
   {
     "name": "Natural earrings",
@@ -220,7 +262,9 @@
     "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
     "colors": ["bg-pearl"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374273/HER_earrings_ja3ctu.jpg",
-    "cldPublicId": "HER_earrings_ja3ctu"
+    "cldPublicId": "HER_earrings_ja3ctu",
+    "productDetails": ["Made out of wood and recycled plastic"],
+    "careInstructions": ["Clean with damp cloth."]
   },
 
   {
@@ -239,7 +283,11 @@
     ],
     "colors": ["bg-pearl", "bg-stone-400", "bg-stone-800", "bg-offblack"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374282/HIM_sweatshirt_wjpxlg.jpg",
-    "cldPublicId": "HIM_sweatshirt_wjpxlg"
+    "cldPublicId": "HIM_sweatshirt_wjpxlg",
+    "productDetails": ["100% cotton"],
+    "careInstructions": [
+      "Machine wash according to instructions on care labels"
+    ]
   },
   {
     "name": "Straight fit linnen pants",
@@ -257,7 +305,9 @@
     ],
     "colors": ["bg-stone-100"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374285/HIM_pants_linnen_waizak.jpg",
-    "cldPublicId": "HIM_pants_linnen_waizak"
+    "cldPublicId": "HIM_pants_linnen_waizak",
+    "productDetails": ["100% linnen"],
+    "careInstructions": ["Machine wash warm", "Iron hot", "Hang to dry"]
   },
   {
     "name": "Chain necklace",
@@ -268,7 +318,9 @@
     "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
     "colors": ["bg-slate-400"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374282/HIM_chain_necklace_q1dwal.jpg",
-    "cldPublicId": "HIM_chain_necklace_q1dwal"
+    "cldPublicId": "HIM_chain_necklace_q1dwal",
+    "productDetails": ["Sterling silver"],
+    "careInstructions": ["Follow care instructions on packaging"]
   },
   {
     "name": "Bucket hat",
@@ -279,7 +331,9 @@
     "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
     "colors": ["bg-slate-200"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HIM_buckethat_zlkjv8.jpg",
-    "cldPublicId": "HIM_buckethat_zlkjv8"
+    "cldPublicId": "HIM_buckethat_zlkjv8",
+    "productDetails": ["100% cotton"],
+    "careInstructions": ["Hand wash only", "Lay flat to dry"]
   },
 
   {
@@ -298,7 +352,11 @@
     ],
     "colors": ["bg-pearl", "bg-lime-300", "bg-cyan-200", "bg-rose-200"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374285/UNI_tshirt_boxy_kzmyh0.jpg",
-    "cldPublicId": "UNI_tshirt_boxy_kzmyh0"
+    "cldPublicId": "UNI_tshirt_boxy_kzmyh0",
+    "productDetails": ["100% cotton", "Oversized boxy fit"],
+    "careInstructions": [
+      "Machine wash according to instructions on care labels"
+    ]
   },
   {
     "name": "Cloud bag",
@@ -309,6 +367,8 @@
     "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
     "colors": ["bg-blue-400"],
     "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374273/ACC_bag_cg9qio.jpg",
-    "cldPublicId": "ACC_bag_cg9qio"
+    "cldPublicId": "ACC_bag_cg9qio",
+    "productDetails": ["100% polyester"],
+    "careInstructions": ["Hand wash only"]
   }
 ]
