@@ -15,6 +15,8 @@ const ProductSchema = new mongoose.Schema({
   colors: [String],
   image: { type: String, required: true },
   cldPublicId: { type: String },
+  productDetails: { type: [String] },
+  careInstructions: { type: [String] },
 });
 
 module.exports = mongoose.model('Product', ProductSchema);
