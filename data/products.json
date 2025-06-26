@@ -4,7 +4,6 @@
     "price": 35,
     "category": "womens",
     "type": "swimwear",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -14,8 +13,7 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-blue-200", "bg-pearl", "bg-orange-500", "bg-offblack"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374270/HER_bikini_apdjt3.jpg",
-    "cldPublicId": "HER_bikini_apdjt3",
+    "image": "/HER_bikini.jpg",
     "productDetails": [
       "Quick-drying",
       "Lining: 95% Polyester, 5% Elastane",
@@ -28,7 +26,6 @@
     "price": 35,
     "category": "womens",
     "type": "tops",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -38,8 +35,7 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-blue-700", "bg-blue-400"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_buttonup_2_odfecy.jpg",
-    "cldPublicId": "HER_buttonup_2_odfecy",
+    "image": "/HER_buttonup_2.jpg",
     "productDetails": ["100% cotton", "Oversized fit"],
     "careInstructions": [
       "Machine wash according to instructions on care labels"
@@ -50,7 +46,6 @@
     "price": 65,
     "category": "womens",
     "type": "pants",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -60,8 +55,7 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-cyan-600", "bg-teal-600", "bg-stone-600"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374271/HER_denim_gphqfz.jpg",
-    "cldPublicId": "HER_denim_gphqfz",
+    "image": "/HER_denim.jpg",
     "productDetails": ["100% cotton", "Cropped fit"],
     "careInstructions": [
       "Machine wash according to instructions on care labels"
@@ -72,7 +66,6 @@
     "price": 24,
     "category": "womens",
     "type": "dresses",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -82,8 +75,7 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-purple-400", "bg-lime-300", "bg-offblack"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374277/HER_dress_sxwh5v.jpg",
-    "cldPublicId": "HER_dress_sxwh5v",
+    "image": "/HER_dress.jpg",
     "productDetails": ["100% cotton"],
     "careInstructions": [
       "Machine wash according to instructions on care labels"
@@ -94,7 +86,6 @@
     "price": 45,
     "category": "womens",
     "type": "tops",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -104,8 +95,7 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-orange-500"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374272/HER_escape_uwutqq.jpg",
-    "cldPublicId": "HER_escape_uwutqq",
+    "image": "/HER_escape.jpg",
     "productDetails": ["100% cotton"],
     "careInstructions": [
       "Machine wash according to instructions on care labels"
@@ -116,7 +106,6 @@
     "price": 32,
     "category": "womens",
     "type": "tops",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -126,8 +115,7 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-orange-200"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374274/HER_leopard_vhikw2.jpg",
-    "cldPublicId": "HER_leopard_vhikw2",
+    "image": "/HER_leopard.jpg",
     "productDetails": ["20% cotton", "80% polyester"],
     "careInstructions": ["Machine wash cold", "Hang to dry"]
   },
@@ -136,7 +124,6 @@
     "price": 19,
     "category": "womens",
     "type": "tops",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -146,8 +133,7 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-pearl", "bg-offblack"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374276/HER_longsleeve_huhcyd.jpg",
-    "cldPublicId": "HER_longsleeve_huhcyd",
+    "image": "/HER_longsleeve.jpg",
     "productDetails": ["100% cotton"],
     "careInstructions": ["Machine wash warm with similar colors"]
   },
@@ -156,7 +142,6 @@
     "price": 105,
     "category": "womens",
     "type": "sets",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -166,8 +151,7 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-pearl"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374276/HER_pattern_pmyhpm.jpg",
-    "cldPublicId": "HER_pattern_pmyhpm",
+    "image": "/HER_pattern.jpg",
     "productDetails": ["Twill"],
     "careInstructions": [
       "Machine wash according to instructions on care labels"
@@ -178,7 +162,6 @@
     "price": 85,
     "category": "womens",
     "type": "sets",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -188,8 +171,7 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-rose-500"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_pink_e4p7jl.jpg",
-    "cldPublicId": "HER_pink_e4p7jl",
+    "image": "/HER_pink.jpg",
     "productDetails": ["100% polyester"],
     "careInstructions": [
       "Machine wash according to instructions on care labels"
@@ -200,7 +182,6 @@
     "price": 15,
     "category": "womens",
     "type": "shorts",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -217,8 +198,7 @@
       "bg-slate-300",
       "bg-offblack"
     ],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374280/HER_summer_jq1lst.jpg",
-    "cldPublicId": "HER_summer_jq1lst",
+    "image": "/HER_summer.jpg",
     "productDetails": ["100% cotton"],
     "careInstructions": [
       "Machine wash according to instructions on care labels"
@@ -229,7 +209,6 @@
     "price": 12,
     "category": "womens",
     "type": "tops",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -246,8 +225,7 @@
       "bg-slate-300",
       "bg-offblack"
     ],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HER_tanktop_ale1ix.jpg",
-    "cldPublicId": "HER_tanktop_ale1ix",
+    "image": "/HER_tanktop.jpg",
     "productDetails": ["100% cotton"],
     "careInstructions": [
       "Machine wash according to instructions on care labels"
@@ -258,11 +236,9 @@
     "price": 25,
     "category": "womens",
     "type": "acc",
-    "totalQuantity": 30,
     "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
     "colors": ["bg-pearl"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374273/HER_earrings_ja3ctu.jpg",
-    "cldPublicId": "HER_earrings_ja3ctu",
+    "image": "/HER_earrings.jpg",
     "productDetails": ["Made out of wood and recycled plastic"],
     "careInstructions": ["Clean with damp cloth."]
   },
@@ -272,7 +248,6 @@
     "price": 33,
     "category": "mens",
     "type": "shirts",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -282,8 +257,7 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-pearl", "bg-stone-400", "bg-stone-800", "bg-offblack"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374282/HIM_sweatshirt_wjpxlg.jpg",
-    "cldPublicId": "HIM_sweatshirt_wjpxlg",
+    "image": "/HIM_sweatshirt.jpg",
     "productDetails": ["100% cotton"],
     "careInstructions": [
       "Machine wash according to instructions on care labels"
@@ -294,7 +268,6 @@
     "price": 40,
     "category": "mens",
     "type": "pants",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -304,8 +277,7 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-stone-100"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374285/HIM_pants_linnen_waizak.jpg",
-    "cldPublicId": "HIM_pants_linnen_waizak",
+    "image": "/HIM_pants_linnen.jpg",
     "productDetails": ["100% linnen"],
     "careInstructions": ["Machine wash warm", "Iron hot", "Hang to dry"]
   },
@@ -314,11 +286,9 @@
     "price": 40,
     "category": "mens",
     "type": "acc",
-    "totalQuantity": 30,
     "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
     "colors": ["bg-slate-400"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374282/HIM_chain_necklace_q1dwal.jpg",
-    "cldPublicId": "HIM_chain_necklace_q1dwal",
+    "image": "/HIM_chain_necklace.jpg",
     "productDetails": ["Sterling silver"],
     "careInstructions": ["Follow care instructions on packaging"]
   },
@@ -327,11 +297,9 @@
     "price": 19,
     "category": "mens",
     "type": "acc",
-    "totalQuantity": 30,
     "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
     "colors": ["bg-slate-200"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374279/HIM_buckethat_zlkjv8.jpg",
-    "cldPublicId": "HIM_buckethat_zlkjv8",
+    "image": "/HIM_buckethat.jpg",
     "productDetails": ["100% cotton"],
     "careInstructions": ["Hand wash only", "Lay flat to dry"]
   },
@@ -341,7 +309,6 @@
     "price": 40,
     "category": "unisex",
     "type": "tops",
-    "totalQuantity": 30,
     "sizes": [
       { "size": "XS", "quantity": 5 },
       { "size": "S", "quantity": 5 },
@@ -351,8 +318,7 @@
       { "size": "XXL", "quantity": 5 }
     ],
     "colors": ["bg-pearl", "bg-lime-300", "bg-cyan-200", "bg-rose-200"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374285/UNI_tshirt_boxy_kzmyh0.jpg",
-    "cldPublicId": "UNI_tshirt_boxy_kzmyh0",
+    "image": "/UNI_tshirt_boxy.jpg",
     "productDetails": ["100% cotton", "Oversized boxy fit"],
     "careInstructions": [
       "Machine wash according to instructions on care labels"
@@ -363,11 +329,10 @@
     "price": 24,
     "category": "unisex",
     "type": "acc",
-    "totalQuantity": 30,
+
     "sizes": [{ "size": "ONESIZE", "quantity": 30 }],
     "colors": ["bg-blue-400"],
-    "image": "https://res.cloudinary.com/dsqgkyybl/image/upload/v1738374273/ACC_bag_cg9qio.jpg",
-    "cldPublicId": "ACC_bag_cg9qio",
+    "image": "/ACC_bag.jpg",
     "productDetails": ["100% polyester"],
     "careInstructions": ["Hand wash only"]
   }
